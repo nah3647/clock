@@ -1,0 +1,35 @@
+.font{
+  font-family: sans-serif;
+  font-size: 50px; 
+}
+body{
+    background-color: black;
+}
+h1{
+    margin:0px;
+    padding: 0px;
+}
+.clock{
+    color:#6a0ac4cb;
+    border: 5px groove;
+    padding: 30px 50px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    display:inline-blocks;
+
+}
+#hours{
+    color:green;
+}
+#minutes{
+    color: yellow;
+}
+#seconds{color:red}
+#about{
+font-size: 20px;
+text-align:center;
+padding-top: 450px;
+
+}
