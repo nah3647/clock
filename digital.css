@@ -12,6 +12,7 @@ h1{
 .clock{
     color:#6a0ac4cb;
     border: 5px groove;
+    border-color:#6a0ac4cb;
     padding: 30px 50px;
     position: absolute;
     top: 50%;
@@ -31,5 +32,6 @@ h1{
 font-size: 20px;
 text-align:center;
 padding-top: 100px 0px;
+vertical-align:bottom;
 
 }
