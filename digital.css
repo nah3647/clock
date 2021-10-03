@@ -13,7 +13,7 @@ h1{
     color:#6a0ac4cb;
     border: 5px groove;
     border-color:#6a0ac4cb;
-    padding: 30px 50px;
+    padding: 80px 90px;
     position: absolute;
     top: 50%;
     left:50%;
@@ -31,7 +31,9 @@ h1{
 #about{
 font-size: 20px;
 text-align:center;
-padding-top: 100px 0px;
 vertical-align:bottom;
-
+display: table-cell;
+height: 100px;
+  width: 100px;
 }
+  
